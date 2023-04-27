@@ -1,0 +1,1 @@
+- [MagicKali_Kernel](https://github.com/DEDSEC-ROMS/MagicKali_Kernel) SUPPORTS SUPPORT HID ATTACK AND KALI NETHUNTER (supported devices: daisy)
